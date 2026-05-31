@@ -1,8 +1,3 @@
-# Deletar o README atual
-rm README.md
-
-# Criar um README novo com o conteúdo correto
-cat > README.md << 'EOF'
 # Servico de Pagamento
 
 ## Descricao
@@ -29,4 +24,3 @@ console.log(servico.consultarUltimoPagamento());
 \`\`\`bash
 npm test
 \`\`\`
-EOF
