@@ -1,13 +1,14 @@
-# Serviço de Pagamento
+# Servico de Pagamento
 
-## Descrição
+## Descricao
 Classe que realiza pagamentos e consulta o último pagamento realizado.
 
-## Instalação
+## Instalacao
 
 ```bash
 npm install
 ```
+
 ## Como usar
 
 ```javascript
