@@ -1,0 +1,12 @@
+{
+  "name": "servico-pagamento",
+  "version": "1.0.0",
+  "description": "Serviço de pagamento com consulta",
+  "main": "src/ServicoDePagamento.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "^10.8.2"
+  }
+}
